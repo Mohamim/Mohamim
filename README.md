@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Mohamim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+────────────────────────────────────────────
+            Haji Lal Miya CT College
+        Higher Secondary Certificate (HSC)
+────────────────────────────────────────────
 
-<!---
-Mohamim/Mohamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is to certify that
+
+              Azizur Rahman
+
+son/daughter of [Parent’s Name], born on 2005-10-25,
+bearing Roll/Registration Number: 131063/1710616903,
+has successfully completed the Higher Secondary Certificate Examination
+in the year 2024 from Jogania, Kalia, Narail, Khulna.
+
+────────────────────────────────────────────
+
+Principal’s Signature: Azizur
+
+Date: 2024-04-10
+
+Seal of the College: Haji Lal Miya CT College
+
+────────────────────────────────────────────
